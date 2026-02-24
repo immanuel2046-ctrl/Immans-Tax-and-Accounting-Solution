@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Immanuel S | Accountant & Tax Consultant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f6f8;
+            color: #333;
+        }
+        header {
+            background: #0b3d91;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h2 {
+            color: #0b3d91;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #0b3d91;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Immanuel S</h1>
+    <p>Experienced Accountant | Tax Consultant | CA Finalist</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <div class="card">
+        <p>
+            I am a finance professional with 10+ years of experience in auditing,
+            taxation, and compliance. I specialize in GST compliance, bookkeeping,
+            and financial advisory for small and medium businesses. I am currently
+            expanding my practice to provide US accounting and bookkeeping services.
+        </p>
+    </div>
+
+    <h2>Core Expertise</h2>
+    <div class="card">
+        <ul>
+            <li>GST Compliance & Tax Consultancy</li>
+            <li>Bookkeeping & Financial Reporting</li>
+            <li>US Accounting (QuickBooks & Xero)</li>
+            <li>Business Advisory & Compliance</li>
+            <li>Audit & Litigation Support</li>
+        </ul>
+    </div>
+
+    <h2>Professional Highlights</h2>
+    <div class="card">
+        <ul>
+            <li>10+ years managing 100+ clients</li>
+            <li>MBA in Finance & CA Finalist</li>
+            <li>Entrepreneur running own accounting practice</li>
+            <li>Expert in complex tax compliance</li>
+        </ul>
+    </div>
+
+    <h2>Services Offered</h2>
+    <div class="card">
+        <ul>
+            <li>Bookkeeping & Cleanup</li>
+            <li>GST & Tax Compliance</li>
+            <li>Financial Statements Preparation</li>
+            <li>Budgeting & Forecasting</li>
+            <li>US SME Accounting Support</li>
+        </ul>
+    </div>
+
+    <h2>Contact</h2>
+    <div class="card">
+        <p>Email: yourmail@example.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Immanuel S | Global Accounting Services</p>
+</footer>
+
+</body>
+</html>
